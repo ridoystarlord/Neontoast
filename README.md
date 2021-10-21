@@ -31,7 +31,7 @@ Neontoast.info(yourContext,"Hi Dude", Toast.LENGTH_SHORT);
 > For Success Neon Toast
 
 ```
-Neontoast.success(yourContext,"Hi Dude", Toast.LENGTH_SHORT);
+Neontoast.success(yourContext,"Hi Dude", Toast.LENGTH_LONG);
 ```
 
 > For error Neon Toast
@@ -43,8 +43,12 @@ Neontoast.error(yourContext,"Hi Dude", Toast.LENGTH_SHORT);
 > For warning Neon Toast
 
 ```
-Neontoast.warning(yourContext,"Hi Dude", Toast.LENGTH_SHORT);
+Neontoast.warning(getApplicationContext(),"Hi Dude", Toast.LENGTH_LONG);
+
+![Screenshot_133](https://user-images.githubusercontent.com/77241744/138265548-3bc19a83-aafb-4a21-a6a0-bc322e88146e.png)
 ```
 
+
 # Screenshots
-![Test](https://emperorempire.com/wp-content/uploads/2020/09/Free-Sync-vs-G-Sync-feature.png)
+
+![Screenshot_133](https://user-images.githubusercontent.com/77241744/138265548-3bc19a83-aafb-4a21-a6a0-bc322e88146e.png)
