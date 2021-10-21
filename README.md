@@ -47,4 +47,4 @@ Neontoast.warning(yourContext,"Hi Dude", Toast.LENGTH_SHORT);
 ```
 
 # Screenshots
-![Test](https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fwelcome&psig=AOvVaw03miO3Jxo_uoGH3jKe1oUA&ust=1634900491375000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPDDr4ut2_MCFQAAAAAdAAAAABAF)
+![Test](https://emperorempire.com/wp-content/uploads/2020/09/Free-Sync-vs-G-Sync-feature.png)
