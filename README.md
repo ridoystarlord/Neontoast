@@ -25,5 +25,23 @@ dependencies {
 > For info Neon Toast
 
 ```
-Neontoast.info(getApplicationContext(),"Hi Dude", Toast.LENGTH_SHORT);
+Neontoast.info(yourContext,"Hi Dude", Toast.LENGTH_SHORT);
+```
+
+> For Success Neon Toast
+
+```
+Neontoast.success(yourContext,"Hi Dude", Toast.LENGTH_SHORT);
+```
+
+> For error Neon Toast
+
+```
+Neontoast.error(yourContext,"Hi Dude", Toast.LENGTH_SHORT);
+```
+
+> For warning Neon Toast
+
+```
+Neontoast.warning(yourContext,"Hi Dude", Toast.LENGTH_SHORT);
 ```
