@@ -1,7 +1,7 @@
 # NeonToast
  Neon effect Toast library
  
- # Step 1. Add the JitPack repository to your build.gradle(Project Level)
+ ## Step 1. Add the JitPack repository to your build.gradle(Project Level)
 
 ```
 allprojects {
