@@ -26,5 +26,4 @@ dependencies {
 
 ```
 Neontoast.info(getApplicationContext(),"Hi Dude", Toast.LENGTH_SHORT);
-
 ```
